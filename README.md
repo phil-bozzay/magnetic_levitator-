@@ -22,7 +22,8 @@ PCB Design
 Electronic Circuit Design
 
 ## Tasks
-
+- dc bias the pwm generator to have minimum duty cycle of 10-15%
+- biase hall effect sensor to operate from 2.5-5 volts
 
 ## Design Decisions
 
@@ -51,4 +52,5 @@ Electronic Circuit Design
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
