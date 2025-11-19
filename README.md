@@ -13,7 +13,7 @@ Levitate a magnet with an electromagnet. The electromagnet will be driven by a c
 Concept: <img width="2042" height="1054" alt="image" src="https://github.com/user-attachments/assets/192624e6-4d62-46ab-bb95-edfe6bfa2df9" />
 <img width="2002" height="1120" alt="image" src="https://github.com/user-attachments/assets/014fdcdd-b496-4b96-968f-307644dff3a1" />
 
-<img width="2472" height="1224" alt="image" src="https://github.com/user-attachments/assets/5ac3640e-bc4b-4142-9a9a-dc07746fdb75" />
+<img width="2044" height="1116" alt="image" src="https://github.com/user-attachments/assets/25b9a63a-3df3-40a3-8660-b7ac1d8245be" />
 
 ## Educational Value Added
 
@@ -25,6 +25,10 @@ Electronic Circuit Design
 ## Tasks
 - dc bias the pwm generator to have minimum duty cycle of 10-15%
 - biase hall effect sensor to operate from 2.5-5 volts
+
+  1. Test the hall effect sensor input voltage to the compensator circuit -> determine output response
+  2. Vary the magnetic force / determine duty cycle variance 
+  
 
 ## Design Decisions
 
@@ -53,6 +57,7 @@ Electronic Circuit Design
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
 
