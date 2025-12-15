@@ -12,6 +12,7 @@ IN PROGRESS
 Levitate a magnet with an electromagnet. The electromagnet will be driven by a control circuit. The design is aimed to be reproducable.
 Concept: <img width="2042" height="1054" alt="image" src="https://github.com/user-attachments/assets/192624e6-4d62-46ab-bb95-edfe6bfa2df9" />
 <img width="2002" height="1120" alt="image" src="https://github.com/user-attachments/assets/014fdcdd-b496-4b96-968f-307644dff3a1" />
+<img width="1048" height="724" alt="image" src="https://github.com/user-attachments/assets/1a7178c1-4f99-41f3-a2e3-82f17dfb5eca" />
 
 <img width="2044" height="1116" alt="image" src="https://github.com/user-attachments/assets/25b9a63a-3df3-40a3-8660-b7ac1d8245be" />
 <img width="1624" height="1158" alt="image" src="https://github.com/user-attachments/assets/7fa9af58-c7e2-42ce-bbdc-45fd7f0839cf" />
@@ -58,6 +59,7 @@ Electronic Circuit Design
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
 
