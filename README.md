@@ -30,7 +30,8 @@ Electronic Circuit Design
 
   1. Test the hall effect sensor input voltage to the compensator circuit -> determine output response
   2. Vary the magnetic force / determine duty cycle variance 
-  
+  <img width="1108" height="944" alt="image" src="https://github.com/user-attachments/assets/96f4d9c5-89f1-4343-9e3e-92e33388f8f2" />
+
 
 ## Design Decisions
 
@@ -59,6 +60,7 @@ Electronic Circuit Design
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
 
